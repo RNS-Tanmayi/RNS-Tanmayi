@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
@@ -42,25 +41,8 @@
       </a>
     </td>
     <td align="center" width="110">
-      <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram" /><br/><sub><b>Instagram</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-        <img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord" /><br/><sub><b>Discord</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
       <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio" /><br/><sub><b>Portfolio</b></sub>
-      </a>
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank">
-        <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle" /><br/><sub><b>Kaggle</b></sub>
       </a>
     </td>
     <td align="center" width="110">
@@ -74,95 +56,50 @@
 
 ---
 
+<!-- ═══════════════ ABOUT ═══════════════ -->
+<h2 align="center">👩‍💻 About</h2>
+
+<p align="center">
+Recent Electronics and Communication Engineering graduate with a solid foundation in Java, Python, JavaScript and SQL.<br/>
+I build REST API–driven applications, bring hands-on testing experience from internships, and use AI tools like Claude and ChatGPT while carefully validating generated code.
+</p>
+
+---
+
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">🤖 GenAI / LLMs</h3>
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude" /><br/><sub><b>Claude</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/openai/74AA9C" width="55" height="55" alt="ChatGPT" /><br/><sub><b>ChatGPT</b></sub></td>
+    <td align="left" width="190"><b>🤖 GenAI / LLMs</b></td>
+    <td align="left">
+      <img src="https://cdn.simpleicons.org/claude/D97757" width="55" height="55" alt="Claude" title="Claude" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/openai/74AA9C" width="55" height="55" alt="ChatGPT" title="ChatGPT" />
+    </td>
   </tr>
-</table>
-</div>
-
-<h3 align="center">💻 Languages</h3>
-<div align="center">
-<table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" /><br/><sub><b>Java</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C" /><br/><sub><b>C</b></sub></td>
+    <td align="left" width="190"><b>💻 Languages</b></td>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C" title="C" />
+    </td>
   </tr>
-</table>
-</div>
-
-<h3 align="center">🧠 AI &amp; ML</h3>
-<div align="center">
-<table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" /><br/><sub><b>Python</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" /><br/><sub><b>NumPy</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/E70488" width="55" height="55" alt="Pandas" /><br/><sub><b>Pandas</b></sub></td>
+    <td align="left" width="190"><b>🌍 Web &amp; App Dev</b></td>
+    <td align="left">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" title="CSS3" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" title="React" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" title="Node.js" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" title="Tailwind CSS" />
+    </td>
   </tr>
-</table>
-</div>
-
-<h3 align="center">📊 Data Science</h3>
-<div align="center">
-<table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/pandas/E70488" width="55" height="55" alt="Pandas" /><br/><sub><b>Pandas</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" /><br/><sub><b>NumPy</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib" /><br/><sub><b>Matplotlib</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL" /><br/><sub><b>SQL</b></sub></td>
+    <td align="left" width="190"><b>📊 Data, AI &amp; Databases</b></td>
+    <td align="left">
+      <img src="https://cdn.simpleicons.org/pandas/E70488" width="55" height="55" alt="Pandas" title="Pandas" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" title="NumPy" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib" title="Matplotlib" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" title="MySQL" />
+    </td>
   </tr>
-</table>
-</div>
-
-<h3 align="center">🌍 Web &amp; App Dev</h3>
-<div align="center">
-<table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" /><br/><sub><b>HTML5</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" /><br/><sub><b>CSS3</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React" /><br/><sub><b>React</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot" /><br/><sub><b>Spring Boot</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" /><br/><sub><b>Tailwind</b></sub></td>
-  </tr>
-</table>
-</div>
-
-<h3 align="center">☁️ Cloud &amp; Infra</h3>
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55" height="55" alt="AWS" /><br/><sub><b>AWS</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
-  </tr>
-</table>
-</div>
-
-<h3 align="center">🗄️ Databases</h3>
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
-  </tr>
-</table>
-</div>
-
-<h3 align="center">🧰 Dev Tools</h3>
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" /><br/><sub><b>Git</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" /><br/><sub><b>GitHub</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" /><br/><sub><b>VS Code</b></sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="55" height="55" alt="Selenium" /><br/><sub><b>Selenium</b></sub></td>
+    <td align="left" width="190"><b>☁️ Cloud &amp; Dev Tools</b></td>
+    <td align="left">
+      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55" height="55" alt="AWS" title="AWS" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" title="Git" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/A78BFA" width="55" height="55" alt="GitHub" title="GitHub" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" title="VS Code" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="55" height="55" alt="Selenium" title="Selenium" />
+    </td>
   </tr>
 </table>
 </div>
@@ -181,15 +118,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=RNS-Tanmayi&theme=tokyonight&hide_border=true&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=A78BFA" alt="GitHub streak" />
 
-</div>
-
----
-
-<!-- ═══════════════ CONTRIBUTION ACTIVITY ═══════════════ -->
-<h2 align="center">📊 Contribution Activity</h2>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RNS-Tanmayi&theme=tokyo-night&hide_border=true&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=8B5CF6" alt="Contribution activity graph" />
 </div>
 
 ---
@@ -226,17 +154,3 @@
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=140&section=footer" alt="Footer banner" />
-<!--
-**RNS-Tanmayi/rns-tanmayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
