@@ -115,9 +115,24 @@ Gayatri Vidya Parishad College of Engineering for Women
 
 ## 📚 Certifications
 
-- **AWS Cloud Practitioner Essentials** — AWS Skill Builder
-- **AI Fluency: Framework and Foundations** — Anthropic Academy
-- **Data Analytics Job Simulation** — Deloitte Forage
+<h2 align="center">📜 Certifications</h2>
+
+<div align="center">
+
+<a href="YOUR_AWS_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="YOUR_ANTHROPIC_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Anthropic-AI_Fluency-000000?style=for-the-badge" />
+</a>
+
+<a href="YOUR_DELOITTE_CERTIFICATE_LINK">
+<img src="https://img.shields.io/badge/Deloitte-Data_Analytics-86BC25?style=for-the-badge" />
+</a>
+
+</div>
+
 
 ---
 
