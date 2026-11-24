@@ -155,19 +155,6 @@ GitHub profiles through the GitHub REST API.
 
 ---
 
-## 📌 A Few Numbers
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/86.2%25-Statement_Coverage-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/100%25-Branch_Coverage-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/10%2B-Resumes_Tested-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/12.12s-Average_AI_Processing-4F46E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/75%2B-PCBs_Tested-2563EB?style=for-the-badge" />
-
-</div>
-
----
 
 ## 💼 Experience
 
